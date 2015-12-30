@@ -1,0 +1,22 @@
+{
+  "name": "breadthFirstSearch",
+  "homepage": "https://github.com/NickPapayiannakis/holiday-toy-problems",
+  "authors": [
+    "Nick Papayiannakis <nikos.papayiannakis@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "~2.3.4",
+    "chai": "~3.4.2"
+  }
+}
